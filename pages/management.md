@@ -1,7 +1,7 @@
 ---
 title: Management
 layout: about
-permalink: /management.html
+permalink: /management.md
 ---
 
 # **Data Management Plan**
