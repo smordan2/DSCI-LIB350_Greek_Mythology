@@ -1,3 +1,9 @@
+---
+title: Management
+layout: about
+permalink: /history.html
+---
+
 # **Data Management Plan**
 
 # Project Description: 
