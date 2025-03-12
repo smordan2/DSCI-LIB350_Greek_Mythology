@@ -7,6 +7,6 @@ Who created the repository: Olivia Ellerbruch
 
 Website URL: https://smordan2.github.io/DSCI-LIB350_Greek_Mythology/
 
-Collection title and description:
+Collection title, Greek Mythology, and description:
 
-Brief descriptin about your DMP and link to our DMP page
+Brief description about your DMP and link to our DMP page
