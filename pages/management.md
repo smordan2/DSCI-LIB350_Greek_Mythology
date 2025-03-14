@@ -1,3 +1,9 @@
+---
+title: Data Management Plan
+layout: browse
+permalink: /management.html
+---
+
 # **Data Management Plan**
 
 # Project Description: 
