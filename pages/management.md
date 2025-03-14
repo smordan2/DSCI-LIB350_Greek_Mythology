@@ -1,10 +1,9 @@
----
+[DSCI_LIB350_DMPDraft_GreekMyth..md](https://github.com/user-attachments/files/19254466/DSCI_LIB350_DMPDraft_GreekMyth.md)---
 title: Management
 layout: about
 permalink: /management.md
 ---
-
-# **Data Management Plan**
+[Uploading DSCI_LIB350_# **Data Management Plan**
 
 # Project Description: 
 
@@ -81,4 +80,4 @@ We will create a data repository on GitHub that can be edited by respective pers
 
 **rights statement** \- A description of the rights of the object, telling how the object may be used and what rights are granted to those looking to use the object.
 
-**Medium-** 
+**medium-** the specific form of the “type”DMPDraft_GreekMyth..md…]()
