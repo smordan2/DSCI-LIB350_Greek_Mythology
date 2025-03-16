@@ -18,6 +18,9 @@ Our audience will be those intrigued by Greek mythology, gender studies, art his
 
 Our collection includes a variety of art forms sourced from a variety of museums and aggregators: the Metropolitan Museum of Art, New York Public Library and Smithsonian, to name a few. One can find anything from ancient coins and 17th century glass slides to sculptures and 18th century engravings.
 
+## Course Name and Information
+This collection was built for DSCI 350M/LIB350, the course was taught by Franny Gaede, with help from Rayne Vieger, and Erin Winter. This course was taught during the Winter Term of 2025 at the UO. Franny is the Associate Librarian at Knight Library and is helps design, lead, and complete projects in support of the Libraries' goals, including outreach initiatives, training programs, and platform development and management. (https://library.uoregon.edu/directory/gaede).
+
 ## Project Roles and Responsibilities
 **Project manager:** Sadie Mordan, responsible for overseeing the progress of the group, creating and updating the shared Google Drive folder and submitting assignments on behalf of the group via Canvas.
 
