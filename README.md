@@ -17,7 +17,7 @@ Our collection includes a variety of art forms sourced from a variety of museums
 
 # Description of Data Management Plan 
 
-Our Data Management Plan includes; personnel, roles & responsibilities; expected data; period of data retention; data formats and dissemination; data store and preservation of access; and our appendix for a data dictionary. This entire plan is for our data collection of Greek Mythology.
+Our Data Management Plan includes; personnel, roles & responsibilities; expected data; period of data retention; data formats and dissemination; data store and preservation of access; and our appendix for a data dictionary. This entire plan is for our data collection of Greek Mythology. Here is a link to the actual DMP on our website: https://smordan2.github.io/DSCI-LIB350_Greek_Mythology/management.html 
 
 # **Data Management Plan**
 
