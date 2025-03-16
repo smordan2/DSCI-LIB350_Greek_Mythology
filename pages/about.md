@@ -21,7 +21,7 @@ If you would like to view the bones of this collection, please feel free to visi
 
 ## Acknowledgements
 
-Special thank you to Franny Gaede, Rayne Vieger and Erin Winter for your guidance and expertise throughout the project. 
+Special thank you to Franny Gaede, Rayne Vieger and Erin Winter for your guidance and expertise throughout the project. And thank you to the DSCI 350M class for giving us the opportunity to create this project and learn more about the digital humanities!
 
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
