@@ -17,11 +17,11 @@ Our audience will be those intrigued by Greek mythology, gender studies, art his
 Our collection includes a variety of art forms sourced from a variety of museums and aggregators: the Metropolitan Museum of Art, New York Public Library and Smithsonian, to name a few. One can find anything from ancient coins and 17th century glass slides to sculptures and 18th century engravings.
 
 ## Project Roles and Responsibilities
-Project manager: Sadie Mordan, responsible for overseeing the progress of the group, creating and updating the shared Google Drive folder and submitting assignments on behalf of the group via Canvas.
+**Project manager:** Sadie Mordan, responsible for overseeing the progress of the group, creating and updating the shared Google Drive folder and submitting assignments on behalf of the group via Canvas.
 
-Collection manager: Jacob Waufle, responsible for customizing the metadata and ensuring the clear displaying of said data on CollectionBuilder.
+**Collection manager:** Jacob Waufle, responsible for customizing the metadata and ensuring the clear displaying of said data on CollectionBuilder.
 
-Repository manager: Olivia Ellerbruch, responsible for customizing the GitHub and uploading files to GitHub, as well as uploading files to the Google Drive folder.
+**Repository manager:** Olivia Ellerbruch, responsible for customizing the GitHub and uploading files to GitHub, as well as uploading files to the Google Drive folder.
 
 ## GitHub Repository
 If you would like to view the bones of this collection, please feel free to visit our GitHub repository at: https://github.com/smordan2/DSCI-LIB350_Greek_Mythology 
