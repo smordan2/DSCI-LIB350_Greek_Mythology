@@ -1,9 +1,5 @@
 ---
-key: value
-title: TimelineJS
+title: A Great Timeline
 layout: page-full-width
-permalink: /timelinejs.html
-# a timeline visualization will be added below the content in this file
+timeline: demo-timeline
 ---
-
-{% include feature/timelinejs.html %}
