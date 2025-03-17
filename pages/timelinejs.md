@@ -1,8 +1,8 @@
 ---
 key: value
-title: Timeline
+title: TimelineJS
 layout: page-full-width
-permalink: /timeline.html
+permalink: /timelinejs.html
 # a timeline visualization will be added below the content in this file
 ---
 
