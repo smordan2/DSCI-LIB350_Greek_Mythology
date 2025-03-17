@@ -11,3 +11,6 @@ About,/about.html
 Timelines,,
 Full Timeline,/timeline.html,Timelines
 TimelineJS,/timelinejs.html,Timelines
+
+[TimelineJS]
+(<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQueImEHSZT-5fNcE3snFPk9bW7O0oGTUaXJiJWdUPOHobym4X0t2Koejc88AOx0IrW4nAVnWYiHfDh&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
